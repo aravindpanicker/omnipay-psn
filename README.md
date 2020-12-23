@@ -52,5 +52,5 @@ For general usage instructions, please see the main [Omnipay](https://github.com
 
 ## Support
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/apanicker/omnipay-psn/issues),
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/aravindpanicker/omnipay-psn/issues),
 or better yet, fork the library and submit a pull request.
