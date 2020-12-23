@@ -1,0 +1,42 @@
+{
+    "name": "apanicker/omnipay-psn",
+    "type": "library",
+    "description": "PSN driver for the Omnipay payment processing library",
+    "keywords": [
+        "PSN",
+        "psn",
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment"
+    ],
+    "homepage": "https://github.com/aravindpanicker/omnipay-psn",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aravind S",
+            "email": "aravindclpy@gmail.com"
+        },
+        {
+            "name": "Omnipay Contributors",
+            "homepage": "https://github.com/aravindpanicker/omnipay-psn/contributors"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\PaymentServiceNetwork\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~3.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~3.0",
+        "squizlabs/php_codesniffer": "~3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
+    },
+    "prefer-stable": true
+}
