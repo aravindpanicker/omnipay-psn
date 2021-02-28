@@ -27,7 +27,7 @@
         "psr-4": { "Omnipay\\PaymentServiceNetwork\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~3.0"
+        "league/omnipay": "~3.0"
     },
     "require-dev": {
         "omnipay/tests": "~3.0",
